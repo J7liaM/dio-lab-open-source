@@ -10,6 +10,22 @@ Repositório criado para fins didáticos, com materiais de apoio e exercício pr
 [![Acesse o Lab](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
 [![Lab na Plataforma](https://img.shields.io/badge/Acesse%20o%20Lab-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
 
+---
+
+## 📖 Índice
+
+- [📌 Objetivo](#-objetivo)
+- [🛠️ Ferramentas Utilizadas](#️-ferramentas-utilizadas)
+- [🗺️ Percurso](#️-percurso)
+- [🚀 Desafio de Projeto](#-desafio-de-projeto)
+- [📄 Contribua com seu Profile README](#-contribua-com-seu-profile-readme)
+- [📚 Utilitários](#-utilitários)
+- [💬 Fórum de Discussões](#-fórum-de-discussões)
+- [🤝 Como Contribuir](#-como-contribuir)
+- [👥 Comunidade Contribuidora](#-comunidade-contribuidora)
+
+---
+
 ## 📌 Objetivo
 
 Aprender o básico sobre contribuição em projetos Open Source utilizando o GitHub.
@@ -38,7 +54,7 @@ Para concluir este desafio, basta enviar a **URL do fork** de um projeto Open So
 > 📌 Exemplo:  
 > A URL `https://github.com/falvojr/dio-lab-open-source` é o fork feito pelo usuário `falvojr` para a contribuição no repositório `dio-lab-open-source`.
 
-### 📄 Contribua com seu Profile README
+## 📄 Contribua com seu Profile README
 
 Uma das formas de contribuição é criar um **Profile README** no diretório `community`, compartilhando informações sobre você com a comunidade.
 
@@ -51,7 +67,7 @@ Você pode incluir:
 
 > 🔗 Inspire-se consultando os exemplos na pasta [`community`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/community) e explore os utilitários na pasta [`utils`](https://github.com/digitalinnovationone/dio-lab-open-source/tree/main/utils).
 
-### 📚 Utilitários
+## 📚 Utilitários
 
 [![Badges](https://img.shields.io/badge/Badges-30A3DC?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
 [![Card Stats](https://img.shields.io/badge/Card%20Stats-E94D5F?style=for-the-badge)](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
@@ -80,7 +96,7 @@ Além de adicionar seu Profile README, você pode:
 [![Forks](https://img.shields.io/github/forks/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/forks)
 [![Issues](https://img.shields.io/github/issues/digitalinnovationone/dio-lab-open-source?style=social)](https://github.com/digitalinnovationone/dio-lab-open-source/issues)
 
-### 👥 Comunidade Contribuidora
+## 👥 Comunidade Contribuidora
 
 <a href="https://github.com/digitalinnovationone/dio-lab-open-source/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
